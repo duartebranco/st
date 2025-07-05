@@ -1,4 +1,4 @@
-duartebranco's st
+# duarte's st build
 
 This is my personal build of st (simple terminal), forked from Luke Smith's build, with several patches and customizations applied.
 
